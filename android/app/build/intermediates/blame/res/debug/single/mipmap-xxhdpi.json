@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/xhpwn/Builds/git/ImageAnnotation/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/xhpwn/Builds/git/ImageAnnotation/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xhpwn/Builds/git/newapp/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/xhpwn/Builds/git/newapp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
